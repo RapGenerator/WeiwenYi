@@ -1,6 +1,9 @@
-{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+# This is WeiwenYi's repo
+
+## Model
+### 2018/08/01
+#### char-rnn-rap
+Simple demo to generate rap with char-rnn.
+
+## Report
+### 2018/08/01

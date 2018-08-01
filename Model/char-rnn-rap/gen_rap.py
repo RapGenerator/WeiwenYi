@@ -1,3 +1,9 @@
+#!/usr/bin/env python
+# -*- coding: utf-8 -*-
+# @Author: WeiwenYi
+# @Date  : 2018/8/1
+# @Desc  : Simple demo of char-rnn to generate rap.
+
 import os
 import sys
 import time

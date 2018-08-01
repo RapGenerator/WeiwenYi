@@ -1,6 +1,7 @@
-{\rtf1\ansi\ansicpg936\cocoartf1561\cocoasubrtf200
-{\fonttbl}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
-}
+# This is char-rnn-rap demo
+
+## Usage 
+**Training:**
+python3 gen_lyrics.py 0  
+**Sampling:**
+python3 gen_lyrics.py 1
