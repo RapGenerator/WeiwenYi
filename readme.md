@@ -35,7 +35,10 @@
 1. Beamsearch Score modified
 
 ### 2018/08/10
-* 完成keword extraction代码，具体见Model/Key_extract readme.md
+* 完成keword extraction代码，具体见Model/Key_extract
 
 ### 2018/08/13
 * 与诗俊讨论押韵score的设定，包括押韵方式，押韵字数与韵的独特性，完成代码的撰写，具体代码见[ranking_funcitons.py](https://github.com/RapGenerator/WangShijun/blob/master/rhyme_study/ranking_function.py)
+
+### 2018/08/15
+* 完成数据的分类，具体见Model/Data_classification 
